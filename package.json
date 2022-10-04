@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "test": "jest --watch"
+    "test": "jest"
   },
   "dependencies": {
     "next": "latest",
